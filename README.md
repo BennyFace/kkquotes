@@ -3,8 +3,8 @@ Simple app to display words of wisdom from Kevin Kelly
 
 Quotes taken from the post: https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
 
+![ScreenShot_v2](https://user-images.githubusercontent.com/30763317/182323109-35d3c33e-e00f-40e9-9846-209b4607a22a.JPG)
 
-![ScreenShot](https://user-images.githubusercontent.com/30763317/182322771-235e5dca-a79c-4994-9215-906c19636051.JPG)
 
 to build exe:
 - pip install pyinstaller
